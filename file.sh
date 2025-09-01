@@ -1,4 +1,5 @@
 #!/bin/bash
 echo "Hi"
 date
-uptime:wq!
+uptime
+lslpu
