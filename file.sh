@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "Hello"
+echo "Hi"
+date
+uptime:wq!
